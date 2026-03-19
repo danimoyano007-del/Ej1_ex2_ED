@@ -1,7 +1,7 @@
 # Documentación técnica - VideoClub Mary
 
 ## Autor
-Daniel Moyano
+Daniel Moyano Martin
 
 ## Asignatura
 Entornos de Desarrollo
